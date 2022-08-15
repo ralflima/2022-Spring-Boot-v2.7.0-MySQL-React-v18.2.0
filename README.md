@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/ralflima/spring_boot_modulo2/blob/master/logos/spring.png" width="30%">
-  <img src="https://github.com/ralflima/spring_boot_modulo2/blob/master/logos/react.png" width="23%">
+  <img src="https://github.com/ralflima/spring_boot_modulo2/blob/master/logos/react.png" width="22%">
   <h1 style="border-bottom:none">Spring Boot e React</h1>
   <p>Instrutor: Ralf Schweder de Lima</p>
   
