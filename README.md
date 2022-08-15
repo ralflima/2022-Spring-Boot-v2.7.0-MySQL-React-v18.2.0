@@ -31,7 +31,7 @@
    + Criando projeto React;
    + Criando os componentes;
    + Utilizando Hooks;
-   + Implementando requisições - POST, GET, PUT e DELETE.
+   + Implementando requisições - GET, POST, PUT e DELETE.
 
    <h3>Projeto final e certificado</h3>
 
