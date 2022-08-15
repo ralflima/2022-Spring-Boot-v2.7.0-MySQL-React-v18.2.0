@@ -32,7 +32,7 @@
    + Criando os componentes;
    + Utilizando Hooks;
    + Requisições utilizando FETCH;
-   + Implementando requisições (POST, GET, PUT e DELETE).
+   + Implementando requisições - POST, GET, PUT e DELETE.
 
    <h3>Projeto final e certificado</h3>
 
