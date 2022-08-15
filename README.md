@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://github.com/ralflima/spring_boot_modulo2/logos/sping.png" width="30%">
-  <img src="https://github.com/ralflima/spring_boot_modulo2/logos/react.png" width="30%">
+  <img src="https://github.com/ralflima/spring_boot_modulo2/tree/master/logos/sping.png" width="30%">
+  <img src="https://github.com/ralflima/spring_boot_modulo2/tree/master/logosreact.png" width="30%">
   <h1 style="border-bottom:none">Criando APIs com Spring Boot</h1>
   <p>Instrutor: Ralf Schweder de Lima</p>
   
